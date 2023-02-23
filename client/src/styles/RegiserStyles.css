@@ -1,0 +1,38 @@
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(4, 213, 228);
+}
+
+.register-form {
+  padding: 30px;
+  background-color: aqua;
+  border: none;
+  border-radius: 20px;
+  padding-top: 70px;
+  padding-left: 100px;
+  padding-bottom: 70px;
+  padding-right: 100px;
+
+
+}
+
+.link-log{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.inp-field{
+  border: none;
+  border-bottom: 1px solid white;
+  background: none;
+  outline: none;
+}
+
+.heading{
+  margin-bottom: 50px;
+}
+
